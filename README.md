@@ -7,4 +7,4 @@ In this repository, you will find:
 2. .txt files: contain commands that control the drones movements. Each drone has its own command file. The command files gets imported into the python code for auto flight of the drones.
 
 # Getting started
-To get started this project, you will need to install python on your local computer. You will also need to know the serial numbers and ip for the drones and replace them in the both the command files and the python code. Additional wifi adapters will be required for your local machine in order to connect to all drones.
+To get started this project, you will need to install python on your local computer. You will also need to know the serial numbers and ip for the drones and replace them in the both the command files and the python code. Additional wifi adapters will be required for your local computer in order to connect to all drones.
